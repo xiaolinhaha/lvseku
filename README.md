@@ -1,4 +1,2 @@
 # lvseku
 tashiwodediyige
-zhonggup
-danshen
